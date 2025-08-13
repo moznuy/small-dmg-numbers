@@ -1,14 +1,13 @@
 {
-	"files": {
-		"index.js": "bc986d2c15cbfa0c0b0b760ecfd86af6c77257f3ef3472c3f665a35d1f8645c9",
-		"README.md": "eab6b4d2d9a67bc40a5b3a0b04ded86a41878d6caddc3e0e440e65f77dae9a7d",
-		"settings_migrator.js": "dc6b929a4f77d8bbcfaf6ae9141fc2f8d14ef677cfd550bf55a9c44894db2ee9",
-		"module.json": "86afbab18494ac2fe33c68d900fb0cf8da3bfbfd9fa467d99487f9367a9cc7d8",
-		"README.html": "1ed7f859236ab24c35a9fe1641d0160862b53336c5c1d5e3f80188aca6f35012"
-	},
-	"defs": {
-		"S_EACH_SKILL_RESULT": 15,
-		"S_SPAWN_USER": 15,
-		"S_DESPAWN_USER": 3
-	}
+    "files": {
+        "index.js": "d7b8008a90a223de5def2730d8200e24ffef06c231fb063fa9e5fd193065e783",
+        "module.json": "1888801e4c29ee3030b75906c9d17984c06ebc01c3e568262343833bad5a13b6",
+        "README.md": "402c4467f7d360a5f134fe7fd7d28e566bf1cd45df509aca70eb79485a843bb2",
+        "settings_migrator.js": "d27ce47dee8c46a871fd25c45c3ab3012de7e71cb0faec1d6135946059666a2b"
+    },
+    "defs": {
+        "S_EACH_SKILL_RESULT": 14,
+        "S_SPAWN_USER": 16,
+        "S_DESPAWN_USER": 3
+    }
 }
